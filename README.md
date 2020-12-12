@@ -7,19 +7,16 @@
 
 ## Dependencies
 - pandas
-- import numpy as np
-- import matplotlib.pyplot as plt
-- import datetime as dt
-- import matplotlib.patches as patches
-- import mpl_toolkits.mplot3d.art3d as art3d
-- import matplotlib.gridspec as gridspec
-- import plotly.express as px
-- import plotly as plotly
-- from mpl_toolkits.mplot3d.axes3d import Axes3D
-- from pandas.plotting import register_matplotlib_converters
-- from celluloid import Camera
-- from IPython.display import HTML
-- from adjustText import adjust_text
-- from numpy.polynomial.polynomial import polyfit
+- numpy
+- matplotlib.pyplot
+- datetime
+- matplotlib.patches
+- mpl_toolkits.mplot3d.art3d
+- matplotlib.gridspec
+- plotly
+- mpl_toolkits.mplot3d.axes3d
+- celluloid
+- IPython
+- adjustText
 
 ## How to Run

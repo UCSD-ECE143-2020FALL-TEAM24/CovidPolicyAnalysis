@@ -20,3 +20,6 @@
 - adjustText
 
 ## How to Run
+1. Install dependencies
+2. Open final team Jupyter Notebook
+3. Run all cells

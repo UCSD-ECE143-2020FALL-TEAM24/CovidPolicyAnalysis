@@ -21,5 +21,5 @@
 
 ## How to Run
 1. Install dependencies
-2. Open final team Jupyter Notebook
+2. Open "Team24_Final_Notebook.ipynb" or "Team24_Final.py"
 3. Run all cells

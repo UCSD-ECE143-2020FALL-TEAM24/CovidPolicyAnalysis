@@ -1,9 +1,8 @@
 # CovidPolicyAnalysis
 ## Main Files in Repository
 1. Team 24 COVID-19 Presentation.pdf 
-2. Team_24_Final_Notebook.ipynb
-3. Team_24_Final_Code.py
-
+2. Team_24_Final_Code.py
+3. Team_24_Final_Notebook.ipynb
 
 ## Dependencies
 - pandas

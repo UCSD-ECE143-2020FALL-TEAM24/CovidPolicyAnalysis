@@ -1,8 +1,8 @@
 # CovidPolicyAnalysis
 ## Main Files in Repository
 1. Team 24 COVID-19 Presentation.pdf 
-2. Team24_Final_Notebook.ipynb
-3. Team24_Final_Code.py
+2. Team_24_Final_Notebook.ipynb
+3. Team_24_Final_Code.py
 
 
 ## Dependencies
@@ -21,5 +21,5 @@
 
 ## How to Run
 1. Install dependencies
-2. Open "Team24_Final_Notebook.ipynb" or "Team24_Final_Code.py"
+2. Open "Team_24_Final_Notebook.ipynb" or "Team_24_Final_Code.py"
 3. Run all
